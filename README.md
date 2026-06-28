@@ -2,6 +2,8 @@
 статус 2806
 отрыгнул web сайт
 
+потребовал при входе ввода IP
+
 установить local tunnel
  npm install -g localtunnel
  вначале установить node.js
