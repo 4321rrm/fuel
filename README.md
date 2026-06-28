@@ -1,7 +1,7 @@
 # fuel
 статус 2806
 отрыгнул web сайт
-
+![отрыгнул](https://github.com/4321rrm/fuel/blob/7fb31011361371c41b7e905027c8cb2bb2fe767f/PIC/ScreenshotBadGateway%20from%202026-06-28%2007-34-34.png)
 потребовал при входе ввода IP
 
 установить local tunnel
